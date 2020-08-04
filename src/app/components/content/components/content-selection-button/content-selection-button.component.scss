@@ -7,7 +7,11 @@
   padding: 0.5rem 2rem;
   border-radius: 5px;
   outline: none;
+  transition: all 0.2s;
   &.selected {
     box-shadow: 0 0 6px 2px white;
+  }
+  &:hover {
+    background-color: #5a5a5a;
   }
 }

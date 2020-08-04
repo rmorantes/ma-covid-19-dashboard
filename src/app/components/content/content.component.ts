@@ -13,28 +13,40 @@ import { Component } from '@angular/core';
         >
         </app-content-selection-button>
       </div>
-      <app-map *ngIf="selected === 'Map'"></app-map>
+      <app-map [ngClass]="{ isHidden: selected !== 'Map' }"></app-map>
 
-      <app-chart *ngIf="selected === 'Chart'"></app-chart>
+      <app-chart
+        [ngClass]="{ isHidden: selected !== 'Chart' }"
+      ></app-chart>
     </div>
   `,
   styles: [
     `
       :host {
-        width: calc(100% - 40rem);
+        /* width: calc(100% - 40rem); */
+        width: calc(100% - 36rem - 30px);
       }
       .app-content {
-        background-color: #202128;
+        /* background-color: #202128;
         /* height: 100vh; */
-        height: calc(100vh - 5rem);
+        /* height: calc(100vh - 5rem); */
         /* width: calc(100% - 40rem); */
-        padding: 2rem 2rem;
+        /* padding: 2rem 2rem; */
         /* display: inline-block; */
-        position: relative;
+        /* position: relative; */
 
         /* Note: Doesn't seem to work, due to auto gen wrap element */
         /* width: 100%; */
         /* width: calc(100vw - 40rem); */
+
+        background-color: #292b33;
+        /* height: calc(100vh - 5rem); */
+        position: relative;
+        margin: 20px;
+        margin-left: 10px;
+        border-radius: 20px;
+        overflow: hidden;
+        height: calc(100vh - 5rem - 40px);
       }
       .buttons-container {
         position: absolute;
@@ -44,6 +56,10 @@ import { Component } from '@angular/core';
         z-index: 9;
         width: 17rem;
         justify-content: space-between;
+      }
+
+      .isHidden {
+        visibility: hidden;
       }
 
       h3 {

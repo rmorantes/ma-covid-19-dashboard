@@ -1,5 +1,6 @@
 // https://github.com/d3/d3/wiki#supported-environments
 import * as d3 from 'd3';
+import * as _ from 'lodash';
 
 const buildChart = (containerSelector, data) => {
   // Initialize dimensions.
@@ -13,8 +14,8 @@ const buildChart = (containerSelector, data) => {
     .select(containerSelector)
     .append('svg')
     .attr('class', 'chart-svg')
-    .style('background-color', '#292b33')
-    .style('border-radius', '10px');
+    .style('background-color', '#292b33');
+  // .style('border-radius', '10px');
 
   // Add X axis. Note that we don't know the range yet, so we cannot draw it.
   const x = d3
@@ -27,9 +28,12 @@ const buildChart = (containerSelector, data) => {
 
   // TODO: assess rate of infection cases / population
 
+  // const [popMin, popMax] = d3.extent(data, (d) => d[1] / d[2]);
+  const popMax = d3.max(data, (d) => d[2]);
+
   const y = d3
     .scaleLinear()
-    .domain(d3.extent(data, (d) => d[1]))
+    .domain(d3.extent(data, (d) => d[1] / d[2]))
     //    .range([innerHeight, 0])
     .nice();
 
@@ -38,14 +42,44 @@ const buildChart = (containerSelector, data) => {
     .append('g')
     .attr('transform', `translate(${margin}, 0)`);
 
+  console.log('popMax = ', popMax);
+  const populationToRadius = d3
+    .scaleSqrt() // instead of scaleLinear()
+    .domain([0, popMax])
+    .range([2, 30]);
+
+  // https://observablehq.com/@d3/continuous-scales#scale_sqrt
   // Initialize circles. Note that the X scale is not available yet, so we cannot draw them
-  var myCircles = svg
+  const myCircles = svg
     .selectAll('circles')
     .data(data)
     .enter()
     .append('circle')
+    .attr('id', (d) => `${_.kebabCase(d[0]).toLowerCase()}-circle`)
     .style('fill', '#69b2b3')
-    .attr('r', 20);
+    .attr('r', (d) => populationToRadius(d[2]))
+    .on('mouseover', function (d) {
+      console.log('this = ', this, d);
+
+      d3.select(this).style('fill', 'red');
+      // div.transition()
+      //     .duration(200)
+      //     .style("opacity", .9);
+      // div	.html(formatTime(d.date) + "<br/>"  + d.close)
+      //     .style("left", (d3.event.pageX) + "px")
+      //     .style("top", (d3.event.pageY - 28) + "px");
+    })
+    .on('mouseout', function (d) {
+      d3.select(this).style('fill', '#69b2b3');
+      // div.transition()
+      //     .duration(500)
+      //     .style("opacity", 0);
+    });
+  // .attr('r', (d) => {
+  //   console.log('r = ', d[2], populationToRadius(d[2]));
+  //   // populationToRadius(d[2])
+  //   return 2;
+  // });
   // .attr('cy', 100);
 
   let currentWidth;
@@ -77,9 +111,11 @@ const buildChart = (containerSelector, data) => {
 
     d3.selectAll('.domain').style('stroke', '#ffffff');
     // Add the last information needed for the circles: their X position
-    myCircles.attr('cx', (d) => {
-      return x(d[3]);
-    });
+    myCircles
+      .attr('cx', (d) => {
+        return x(d[3]);
+      })
+      .attr('cy', (d) => y(d[1] / d[2]));
   }
 
   // Initialize the chart

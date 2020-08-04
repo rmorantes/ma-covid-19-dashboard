@@ -1,10 +1,28 @@
 import { Component } from '@angular/core';
+import * as d3 from 'd3';
+import * as _ from 'lodash';
+
+import CitiesStoreService from 'src/app/services/cities-store.service';
 
 @Component({
   selector: 'app-sidebar',
   template: `
     <div class="app-sidebar">
-      <h3>{{ name }}'s Menu</h3>
+      <div class="scroll-container">
+        <app-selection-form></app-selection-form>
+        <input type="text" />
+        <app-city-tile
+          *ngFor="let city of citiesStore.cities"
+          [name]="city[0]"
+          [cases]="city[1]"
+          [population]="city[2]"
+          (mouseenter)="onMouseenter(city[0])"
+          (mouseout)="onMouseout(city[0])"
+        ></app-city-tile>
+      </div>
+
+      <!-- <div class="app-sidebar-content"> -->
+      <!-- <h3>{{ name }}'s Menu</h3>
       <p>{{ myBool ? 'isTrue' : 'isFalse' }}</p>
       <p>My num = {{ getNum() }}</p>
       <p [innerText]="name + ' Bobandy'"></p>
@@ -44,60 +62,54 @@ import { Component } from '@angular/core';
         >
           i = {{ i }}
         </p>
-      </div>
+      </div> -->
+      <!-- </div> -->
     </div>
   `,
   styles: [
     `
       .app-sidebar {
-        background: #313144;
-        height: calc(100vh - 5rem);
-        padding: 2rem 1rem;
-        width: 40rem;
+        background-color: #292b33;
+        border-radius: 20px;
         display: inline-block;
+        height: calc(100vh - 9rem);
+        margin: 20px;
+        margin-right: 10px;
+        padding: 2rem;
+        width: 36rem;
       }
-      h3,
-      p {
-        color: white;
-        margin: 0;
-        text-align: center;
+      .scroll-container {
+        height: 100%;
+        overflow-y: scroll;
       }
-      .myBoolIsTrue {
-        border: solid white 0.2rem;
+      .scroll-container::-webkit-scrollbar {
+        margin-left: 5px;
+        width: 4px;
       }
-      .myBoolIsFalse {
-        border: solid black 0.2rem;
+      .scroll-container::-webkit-scrollbar-thumb {
+        background: #3f4350;
+        border-radius: 99px;
+      }
+      .scroll-container::-webkit-scrollbar-track {
+        background: #24262e;
+        border-radius: 99px;
       }
     `,
   ],
 })
 export class SidebarComponent {
-  myBool = false;
-  name: string = 'Randy';
-  counter: number = 0;
-  inputValue: string = '';
-  items = ['Item 1', 'Item 2', 'Item 3'];
+  constructor(public citiesStore: CitiesStoreService) {}
 
-  constructor() {
-    setTimeout(() => (this.myBool = true), 5000);
-  }
-  getNum() {
-    return 10;
+  onMouseenter(name) {
+    d3.select(`#${_.kebabCase(name).toLowerCase()}-circle`)
+      .style('fill', 'red')
+      .raise();
   }
 
-  onClick(num = 0) {
-    if (num) {
-      this.counter += num;
-    } else {
-      this.counter = 0;
-    }
-  }
-
-  onUpdate(event: Event) {
-    this.inputValue = (event.target as HTMLInputElement).value;
-  }
-
-  getColor() {
-    return this.myBool ? 'green' : 'red';
+  onMouseout(name) {
+    d3.select(`#${_.kebabCase(name).toLowerCase()}-circle`).style(
+      'fill',
+      '#69b2b3',
+    );
   }
 }
