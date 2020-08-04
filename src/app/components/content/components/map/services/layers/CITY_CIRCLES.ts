@@ -1,0 +1,41 @@
+const CITY_CORONA_DEATH_POINTS_UNCLUSTERED = {
+  id: 'clusters',
+  type: 'circle',
+  source: 'city-centers',
+  paint: {
+    'circle-color': [
+      'step',
+      ['coalesce', ['get', 'covidCases22July2020'], ['get', 'sum']],
+      '#fed976',
+      10,
+      '#feb24c',
+      100,
+      '#fd8d3c',
+      1000,
+      '#fc4e2a',
+      10000,
+      '#e31a1c',
+      100000,
+      '#b10026',
+    ],
+    'circle-radius': [
+      'step',
+      ['coalesce', ['get', 'covidCases22July2020'], ['get', 'sum']],
+      10,
+      10,
+      15 + 1,
+      100,
+      20 + 2,
+      1000,
+      25 + 3,
+      10000,
+      30 + 4,
+      100000,
+      35 + 5,
+    ],
+    'circle-stroke-color': 'rgba(0, 0, 0, 0.5)',
+    'circle-stroke-width': ['case', ['has', 'cluster'], 6, 0],
+  },
+};
+
+export default CITY_CORONA_DEATH_POINTS_UNCLUSTERED;

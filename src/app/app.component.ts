@@ -1,10 +1,20 @@
 import { Component } from '@angular/core';
 
+// import template from './app.component.html';
+
 @Component({
   selector: 'app-root',
+  styleUrls: ['./app.component.scss'],
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  // styles: [
+  //   `
+  //     .app-root {
+  //       display: flex;
+  //     }
+  //   `,
+  // ],
 })
-export class AppComponent {
-  title = 'my-first-app';
-}
+export class AppComponent {}
+
+// templateUrl: './app.component.html',
+//

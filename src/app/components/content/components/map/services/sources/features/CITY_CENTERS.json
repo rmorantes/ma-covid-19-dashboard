@@ -1,0 +1,3863 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 100,
+      "town": "Westport"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.06383331280097, 41.52512056971699]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 208,
+      "town": "Falmouth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.68100778261635, 41.5235708168696]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 397,
+      "town": "Dartmouth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.96029183622204, 41.5891870322137]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 247,
+      "town": "Fairhaven"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.85071066353365, 41.599099540151954]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 358,
+      "town": "Bridgewater"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.94299803711931, 41.99660990479001]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 23,
+      "town": "Provincetown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.18674054552936, 42.02479893207829]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 117,
+      "town": "Duxbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.65775022449787, 42.051744832949474]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 174,
+      "town": "Marshfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.6719711760097, 42.0629604666444]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 21,
+      "town": "Chatham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.98861784336532, 41.60592715843263]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 12,
+      "town": "Eastham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.94274990263536, 41.83431898252231]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 183,
+      "town": "East Bridgewater"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.93871188786659, 42.03701679540834]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 10,
+      "town": "Truro"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.0652903380666, 42.01102098799269]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 277,
+      "town": "East Longmeadow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.49905313573696, 42.05977230903635]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 194,
+      "town": "Whitman"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.9399208127689, 42.079994480485865]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 95,
+      "town": "Pembroke"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.80026430949711, 42.10519688834718]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 67,
+      "town": "Rehoboth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [151965.87538259846, 582850.226456593]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 16,
+      "town": "Orleans"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.94924174110814, 41.808616830593486]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 382,
+      "town": "Barnstable"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.34073029935074, 41.710974132797105]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 138,
+      "town": "Swansea"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.22006243056981, 41.7278161606508]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.3591117672744, 42.386804536604636]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 41,
+      "town": "Mattapoisett"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.76383356512616, 41.677108479708885]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 13,
+      "town": "Marion"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.74194452430746, 41.698168637914705]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 111,
+      "town": "Brewster"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.11680649999542, 41.761322931444965]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 161,
+      "town": "Bourne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.57941251126076, 41.70886428811079]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Gosnold"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82608805893223, 41.45013130773934]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1063,
+      "town": "Methuen"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.12424146535851, 42.741584798697325]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 14,
+      "town": "Newbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.85036429993578, 42.75543210096863]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 42,
+      "town": "Groveland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.02801474001264, 42.770757889308435]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 111,
+      "town": "Newburyport"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82403782091043, 42.80671787077066]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 81,
+      "town": "Oxford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.86653151394948, 42.12855748940425]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 102,
+      "town": "Littleton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.4890993202965, 42.53502292459957]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 272,
+      "town": "Middleborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.96198006857202, 41.93853104748361]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 95,
+      "town": "Dennis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.18194189277736, 41.65386692973528]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 2197,
+      "town": "New Bedford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.91006895562101, 41.6249790940264]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 68,
+      "town": "Mashpee"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.50477625746336, 41.57524953902689]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 26,
+      "town": "Nantucket"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.08759007161673, 41.27753734800045]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Chilmark"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.7645004450123, 41.347607910090694]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 9,
+      "town": "Edgartown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.51324069093812, 41.39909607829979]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Oak Bluffs"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.55239225509825, 41.41548411917266]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 10,
+      "town": "Tisbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.59707723609414, 41.451639722596674]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 740,
+      "town": "Weymouth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.9475030537365, 42.194301743682225]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 27,
+      "town": "Cohasset"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82030622309705, 42.235326975429835]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 314,
+      "town": "Milton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.08105283219864, 42.26907177757013]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 53,
+      "town": "Hull"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.839434080403, 42.269542476442915]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 283,
+      "town": "Hingham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.88484970526828, 42.21603606438942]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 118,
+      "town": "Yarmouth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.22865790375121, 41.63686424376289]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 212,
+      "town": "Somerset"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.19146298951618, 41.723471283951845]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 219,
+      "town": "Wareham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.67773017874502, 41.731228582896186]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1703,
+      "town": "Fall River"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.09890296586815, 41.71341761306767]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Tolland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.02141222225598, 42.09175842979206]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 39,
+      "town": "Medfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.30499761845422, 42.18481675849665]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1775,
+      "town": "Framingham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.43675615205832, 42.30853746698105]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 651,
+      "town": "Salem"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.81494714339694, 42.512625475384965]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 17,
+      "town": "Russell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.85682615415566, 42.16227151811883]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Brimfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.20621334024207, 42.12863176232793]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Rowe"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.91287103727588, 42.69869277700765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Hubbardston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.00513920317631, 42.483787419323015]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 145,
+      "town": "Westford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.44006346195977, 42.58641373939968]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 24,
+      "town": "Essex"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.73346976195258, 42.65480820135096]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 37,
+      "town": "Hamilton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.85790056350443, 42.626614632132615]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 264,
+      "town": "Gloucester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.71548949647496, 42.616868604118466]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 70,
+      "town": "Ipswich"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.74804334159491, 42.66817858049919]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 26,
+      "town": "Boxborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.5177933963106, 42.48836958335762]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 41,
+      "town": "Nahant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.89807678494702, 42.43342479012576]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 63,
+      "town": "Rowley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82270933093353, 42.7501035119767]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 14464,
+      "town": "Boston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.9595566966108, 42.35123899199564]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Heath"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.82019979119815, 42.68952042024541]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 83,
+      "town": "Williamstown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.22832791451772, 42.68476312908851]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 11,
+      "town": "Bolton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.60728404646893, 42.43615901841937]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 243,
+      "town": "Marblehead"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82634548870703, 42.502856349844635]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 188,
+      "town": "Pittsfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.26051875068478, 42.45170441572739]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1059,
+      "town": "Medford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.07241922481849, 42.411560493634845]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 59,
+      "town": "Salisbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.82513113110888, 42.830314835788954]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 189,
+      "town": "Amesbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.90589089617465, 42.834624354307714]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 566,
+      "town": "Saugus"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.99401033791352, 42.45872061343316]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 98,
+      "town": "Tyngsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.39468401453293, 42.6790527392387]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4317,
+      "town": "Brockton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.02420653682195, 42.0820733511086]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 14,
+      "town": "Huntington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.85493838254594, 42.284390341461055]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Northfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.44597539072564, 42.67577851731392]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Wellfleet"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.0043431931459, 41.89755962212752]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 321,
+      "town": "Andover"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.18991041537527, 42.69539861604906]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 63,
+      "town": "Lakeville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.95938574835449, 41.83102712927836]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 3779,
+      "town": "Lynn"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.96151070097372, 42.44473750498459]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Worthington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9424306141782, 42.395355273420606]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 71,
+      "town": "Berkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.11031517264618, 41.81609213620097]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 106,
+      "town": "Freetown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01354835085284, 41.771089206901124]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Leyden"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.62647616381608, 42.69577455191745]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 31,
+      "town": "Southampton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.73857856347132, 42.23083316940053]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 24,
+      "town": "West Brookfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.16003890213831, 42.254087514563246]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Middlefield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.01575064054661, 42.351399083269136]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 273,
+      "town": "Melrose"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.05900821804676, 42.455614604982564]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 630,
+      "town": "Beverly"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.79714910616737, 42.56029470413547]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Hancock"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.31979246173263, 42.5313046828997]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 10,
+      "town": "West Newbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01740696145923, 42.78258151639359]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 281,
+      "town": "Easton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1103044695259, 42.03621482430547]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 823,
+      "town": "Braintree"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.00255693958806, 42.20358891362176]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 3704,
+      "town": "Lawrence"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [85974.32501536582, 355036.48590533005]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 195,
+      "town": "Scituate"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.7628798892231, 42.20069023543206]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 599,
+      "town": "Plymouth"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.61205272346271, 41.941489059750936]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5398,
+      "town": "Worcester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.80793840636049, 42.270539233394636]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 142,
+      "town": "West Bridgewater"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.99646158965528, 42.041424864497735]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 96,
+      "town": "Dudley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.93517732753318, 42.0549945955688]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 68,
+      "town": "Dighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.15596255660421, 41.8365046773541]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1001,
+      "town": "Taunton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.02885606977875, 41.87409903567034]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 239,
+      "town": "Abington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.95903747677997, 42.118045159579395]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 25,
+      "town": "Upton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.60432698501626, 42.1770808019357]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 9,
+      "town": "Hardwick"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.21503845367788, 42.35477590522327]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 2992,
+      "town": "Lowell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.32816726536042, 42.6503288280264]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 10,
+      "town": "Dunstable"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.5005450110796, 42.67640998801609]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Savoy"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.01957990606493, 42.5962693708127]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 2970,
+      "town": "Springfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.5395169857062, 42.11550266860346]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Sandisfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.12288742568322, 42.10838423199702]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 41,
+      "town": "Lincoln"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.30864053360636, 42.42662348543499]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 395,
+      "town": "Stoneham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.09716462125532, 42.4740846563975]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 655,
+      "town": "Woburn"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1542660089907, 42.48687680663532]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1280,
+      "town": "Malden"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.05756851665383, 42.43050685468943]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Peru"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.04000803986982, 42.429303777825496]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 138,
+      "town": "Swampscott"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.9067148144925, 42.47571622134368]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 13,
+      "town": "East Brookfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.04671941715186, 42.203263737675265]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1262,
+      "town": "Haverhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1177506075934, 42.76903106478107]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Hinsdale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.11337692934082, 42.434827631697544]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Shutesbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.41930302849381, 42.4566163565405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 9,
+      "town": "Sunderland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.55461703943593, 42.46510972934703]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 82,
+      "town": "Rockport"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.6185304675274, 42.62624020385179]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 11,
+      "town": "Deerfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.60972379794966, 42.52201864920677]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Wendell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.40496558352774, 42.55353853679788]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 39,
+      "town": "Rochester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.83848537811917, 41.75998385115755]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 239,
+      "town": "Raynham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.00052861030393, 41.889986782156015]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 25,
+      "town": "Warren"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.20061825306084, 42.20017049029785]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 144,
+      "town": "Ayer"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.57175382393216, 42.562801417740616]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 679,
+      "town": "Attleboro"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.29489703128368, 41.93110717053642]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 140,
+      "town": "Norton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.18418495609033, 41.96401573398503]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 266,
+      "town": "North Attleborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.33446796930747, 41.96991221423111]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 99,
+      "town": "Hampden"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.41564363800666, 42.06384711664225]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 285,
+      "town": "Rockland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.91002507369005, 42.129494287545114]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "New Ashford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.22402526039295, 42.608673866902045]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 134,
+      "town": "Harwich"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.03758678783387, 41.668284296325]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Tyringham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.19758967280794, 42.2473406803483]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Alford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.425891238903, 42.24861980166212]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 15,
+      "town": "Sheffield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.35996785834074, 42.102054481821845]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 113,
+      "town": "Wayland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.35937191438335, 42.35854192341366]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 336,
+      "town": "Wilmington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.16540532655975, 42.56091489187189]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 29,
+      "town": "Montague"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.51770223766096, 42.5548843114373]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 124,
+      "town": "Templeton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.07357347949078, 42.56862327908341]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 197,
+      "town": "Gardner"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.98675489182037, 42.584518791998356]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 8,
+      "town": "Buckland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.78802411823456, 42.591695693464764]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 432,
+      "town": "Natick"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.34970366125472, 42.28471273685363]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 14,
+      "town": "Lenox"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.27598956281007, 42.371639377684595]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 45,
+      "town": "Hadley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.56922659433471, 42.35563521692152]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1870,
+      "town": "Revere"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01797603159255, 42.436028855682295]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Conway"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.70642124668603, 42.50815324452875]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Bernardston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.54900561165577, 42.69162860364704]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 20,
+      "town": "Manchester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.73805280961493, 42.56400391777665]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 18,
+      "town": "Harvard"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.58529694140759, 42.505899085285876]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 169,
+      "town": "Acton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.4377726801736, 42.484304661497006]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 216,
+      "town": "Millbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.77408076944005, 42.19244868503181]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Oakham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.04605958307314, 42.35002314475446]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 33,
+      "town": "Westminster"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.90265761484707, 42.55122189079775]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 98,
+      "town": "Sandwich"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.47484578702802, 41.76459058823959]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 16,
+      "town": "Dalton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.15330458621759, 42.47953775908737]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 35,
+      "town": "Townsend"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.71157999177342, 42.666958463889465]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 89,
+      "town": "Winchendon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.0487519533691, 42.666771110129304]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 18,
+      "town": "Hatfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.62173843681951, 42.387911408759386]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 121,
+      "town": "Winchester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.14588790828803, 42.44348121564742]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Florida"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.01448785849806, 42.68034731086676]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 11,
+      "town": "West Tisbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.65455538847972, 41.400130732599244]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 77,
+      "town": "Avon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.04924391695606, 42.12665837625018]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1021,
+      "town": "Peabody"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.97255680920892, 42.53350118368457]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 19,
+      "town": "Carlisle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.35127026754284, 42.5300116914411]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 142,
+      "town": "Bellingham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.47407631048499, 42.07776644206711]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 301,
+      "town": "Winthrop"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.0037847406891, 42.37058253551502]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 482,
+      "town": "Dracut"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.26153682740929, 42.65878115982749]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 127,
+      "town": "Foxborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.24613313538846, 42.06266024628992]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 12,
+      "town": "Granville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.90858316506241, 42.08167387060373]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 91,
+      "town": "Easthampton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.67205328336557, 42.26513612881476]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 6,
+      "town": "Erving"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.42908598336305, 42.60759790573089]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 50,
+      "town": "Millis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.3625606758053, 42.1693159513722]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 744,
+      "town": "Danvers"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.91609124972226, 42.54364939046493]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "New Salem"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.3267539868586, 42.452436348936246]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Windsor"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.04338516930098, 42.51361554810741]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 8,
+      "town": "Lanesborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.23939715858012, 42.531729863639704]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Washington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.1551210435186, 42.36567505127981]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Leverett"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.48746206415947, 42.47360745442692]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 967,
+      "town": "Randolph"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.05396033922064, 42.177847282839465]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 132,
+      "town": "Ludlow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.45804722892456, 42.19210488588353]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 74,
+      "town": "Hanover"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.85673032232606, 42.12243135211347]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 58,
+      "town": "Halifax"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.90938090088763, 41.973881302961956]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 16,
+      "town": "Becket"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.08326421375162, 42.28497405112789]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 36,
+      "town": "Ware"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.28433616155513, 42.28064119378186]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 113,
+      "town": "Belchertown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.4003760517429, 42.27874644826589]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 33,
+      "town": "Ashburnham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.92521457838089, 42.65899120796539]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 62,
+      "town": "Georgetown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.982113142298, 42.724006048940815]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Blandford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.95221135106627, 42.18686464056253]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 54,
+      "town": "West Boylston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.7845550556024, 42.36899270855083]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 283,
+      "town": "Northampton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.67453563379013, 42.326635123065756]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 21,
+      "town": "Lee"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.23411812402848, 42.30199908982704]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 598,
+      "town": "Tewksbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.22773418559184, 42.611908017271176]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 258,
+      "town": "Clinton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.68882501877269, 42.41190820011967]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 405,
+      "town": "Brookline"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.14079894597221, 42.32426165040409]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Charlemont"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.86488287810529, 42.640203333849875]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 35,
+      "town": "Merrimac"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01255038633455, 42.83905184932224]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 90,
+      "town": "Seekonk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.31744673748281, 41.83779504687694]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 256,
+      "town": "Bedford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.2782937791549, 42.496942410218765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 103,
+      "town": "Lancaster"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.68082629480331, 42.48170973788637]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 15,
+      "town": "Ashby"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.82318256326032, 42.67654332397476]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 48,
+      "town": "North Adams"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.1166102489433, 42.68439511502421]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 11,
+      "town": "Plympton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.80973048960597, 41.9634547678605]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 318,
+      "town": "Arlington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.14860145492214, 42.42792308338608]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 789,
+      "town": "Newton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.17327068727215, 42.35935744743114]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 32,
+      "town": "Mendon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.55147090651174, 42.09301534884871]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 196,
+      "town": "Hudson"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.546477477158, 42.388672827756984]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 116,
+      "town": "Topsfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.94262861144091, 42.637232223336426]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 21,
+      "town": "Berlin"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.63552051864986, 42.383780619893116]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 998,
+      "town": "Somerville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1017218383235, 42.390543770717485]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 362,
+      "town": "North Andover"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.08633810440867, 42.67110526848889]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 245,
+      "town": "Wellesley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.28542659406567, 42.30434253592349]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 396,
+      "town": "Watertown"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.16703381611046, 42.36093997072653]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1000,
+      "town": "Cambridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.0964037657977, 42.35982297771153]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 176,
+      "town": "Shirley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.64709108800365, 42.57250953716439]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 43,
+      "town": "Groton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.56141126532412, 42.613670545764364]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 8,
+      "town": "Shelburne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.68340872418743, 42.6034548443083]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Otis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.08563737410101, 42.20376896368819]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 270,
+      "town": "Burlington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.20268240538445, 42.50215232621881]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Aquinnah"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.80466287891332, 41.3381270975787]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 71,
+      "town": "Maynard"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.45610735836898, 42.42639385313461]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 959,
+      "town": "Holyoke"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.64110973187918, 42.212518163721036]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 348,
+      "town": "Chelmsford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.36300345573648, 42.599682055825994]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 200,
+      "town": "Holbrook"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.00568309989767, 42.14705002014072]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 6,
+      "town": "Princeton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.88128061957352, 42.456490935497364]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 154,
+      "town": "Leicester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.91201799079798, 42.23998614870121]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 52,
+      "town": "Palmer"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.31116086610618, 42.188791831422236]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 416,
+      "town": "Dedham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.17773433513635, 42.2466200868672]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 115,
+      "town": "Weston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.30008165776619, 42.358929237594076]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 57,
+      "town": "Holliston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.44498481762231, 42.19774449059011]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 20,
+      "town": "Brookfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.1044134189145, 42.19363787695094]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 138,
+      "town": "Kingston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.74838939398416, 41.986124211068876]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 198,
+      "town": "Sudbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.38600132321817, 42.36377342207838]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 168,
+      "town": "Mansfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.21868165413422, 42.01625389350329]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 46,
+      "town": "Boxford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01895984198222, 42.68150669707227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 196,
+      "town": "North Reading"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.08757074884444, 42.58155804631958]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 73,
+      "town": "Great Barrington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.34158130389393, 42.21098706173735]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1195,
+      "town": "Quincy"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.9805663649966, 42.25762259283266]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 132,
+      "town": "Hopkinton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.53780972755466, 42.225501888875]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 15,
+      "town": "Sherborn"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.37532081958842, 42.23416950590032]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Cummington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.91958480063526, 42.46313560289699]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Mount Washington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.46622320322169, 42.09395895316747]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 177,
+      "town": "Concord"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.36385993465183, 42.461969456607115]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 268,
+      "town": "Webster"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.84848518757015, 42.05206101177177]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Colrain"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.71683699456362, 42.68336110567023]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 344,
+      "town": "Westborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.61403362944526, 42.268141873530084]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 103,
+      "town": "Amherst"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.5068630753803, 42.364473885381734]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 54,
+      "town": "Pepperell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.60418954807278, 42.67121101740994]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Chester"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.94004830381688, 42.29111647415995]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Chesterfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.84456089483686, 42.3868959446563]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 201,
+      "town": "Wrentham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.3551467849183, 42.05133881372407]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 227,
+      "town": "Longmeadow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.57191250299279, 42.04755795024833]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 45,
+      "town": "Hopedale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.53501352368579, 42.12476194364362]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1253,
+      "town": "Waltham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.2423134098128, 42.38891620010116]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 125,
+      "town": "Holden"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.86076869659743, 42.35613829738279]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 33,
+      "town": "Paxton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.93302428243456, 42.31093311637952]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 234,
+      "town": "Belmont"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.1795062901785, 42.395986669330824]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 227,
+      "town": "Wilbraham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.43083375462967, 42.12698996619891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 305,
+      "town": "Reading"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.10557432930803, 42.53505351125663]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 124,
+      "town": "Norwell"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.77962579964233, 42.13822666473313]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 8,
+      "town": "Clarksburg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.10893533982936, 42.72665442382344]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Whately"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.64441338730757, 42.438327537246856]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 44,
+      "town": "Southborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.52966134796925, 42.3011769238578]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 68,
+      "town": "Athol"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.21768952549891, 42.58412571196921]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 209,
+      "town": "Greenfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.59856114743332, 42.614025855734866]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Gill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.51112774687282, 42.633732720399664]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 396,
+      "town": "West Springfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.65023863860137, 42.12532290800321]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 11,
+      "town": "Williamsburg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.72953397466067, 42.40242147957447]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Goshen"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.80644614949269, 42.442484670697844]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 69,
+      "town": "Plainville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.33639698175794, 42.01410214135039]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 140,
+      "town": "Franklin"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.41127975273635, 42.086212489262486]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 488,
+      "town": "Chicopee"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.57185661318582, 42.17637913601177]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 20,
+      "town": "Wenham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.88264093002327, 42.60079580985622]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 29,
+      "town": "Norfolk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.32953276112714, 42.1163165871075]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 56,
+      "town": "Southwick"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.7785554470323, 42.05440475974836]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 332,
+      "town": "Lexington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.2307053117699, 42.44563332187371]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 168,
+      "town": "South Hadley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.57931121270059, 42.256689306320204]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Hawley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.90651594382692, 42.5848687679546]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 613,
+      "town": "Stoughton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.10191683491163, 42.11920498513296]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 314,
+      "town": "Northbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.65472718794364, 42.13000075944241]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 44,
+      "town": "Sturbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.0904122254624, 42.10758975168367]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 22,
+      "town": "Millville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.57767360740364, 42.03900685495133]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 657,
+      "town": "Milford"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.51877923123145, 42.1565154476087]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 32,
+      "town": "Granby"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.50362155304911, 42.26081950773574]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Ashfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.80656948700431, 42.52017119953222]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Plainfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9241149489731, 42.517984732177084]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Warwick"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.34055445417512, 42.67708426063384]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Monterey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.22737112737305, 42.19057171432645]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 123,
+      "town": "Sterling"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.77297117316634, 42.44124290350426]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 18,
+      "town": "North Brookfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.07794431691185, 42.269499433407155]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 340,
+      "town": "Shrewsbury"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.71543448084974, 42.2841993699227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 15,
+      "town": "Stockbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.32450373919372, 42.30257892381932]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "West Stockbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.38822955679719, 42.31025116035785]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Westhampton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.77842704310686, 42.30993305008916]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 88,
+      "town": "Charlton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.96803086821669, 42.135084377735325]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 52,
+      "town": "Sutton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.75028634037835, 42.13371261464981]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 121,
+      "town": "Medway"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.42903514972252, 42.15352710803746]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 220,
+      "town": "Auburn"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.84527049057992, 42.197231289934685]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 341,
+      "town": "Needham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.24107795896157, 42.28136825142659]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 3002,
+      "town": "Chelsea"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.03263453520809, 42.396488074057636]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1823,
+      "town": "Everett"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.05365945778306, 42.40731222880298]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 1015,
+      "town": "Marlborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.54682110356707, 42.349393871992504]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 326,
+      "town": "Wakefield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.06558999143371, 42.503508540379286]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 471,
+      "town": "Westfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.75610539983407, 42.138186823972966]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 0,
+      "town": "Monroe"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.9825915113349, 42.72264983151434]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 109,
+      "town": "Hanson"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.8723246731726, 42.0557641374739]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 179,
+      "town": "Southbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.03376564839895, 42.06043412768718]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "New Marlborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.24000632490302, 42.10087605119696]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Cheshire"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.15120571637445, 42.56385018750813]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 99,
+      "town": "Acushnet"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.90116466206722, 41.71401774044024]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 62,
+      "town": "Carver"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.75629944752664, 41.87388132965743]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 708,
+      "town": "Leominster"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.77167118570692, 42.520879704660885]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 67,
+      "town": "Lunenburg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.71990530060931, 42.589677861010045]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 811,
+      "town": "Fitchburg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.8156024798938, 42.591241208906396]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 78,
+      "town": "Uxbridge"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.6380233680965, 42.059259534865156]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 43,
+      "town": "Monson"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.3261128802348, 42.09337424173872]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 16,
+      "town": "Phillipston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.13546120950123, 42.552762428202314]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 59,
+      "town": "Spencer"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.99189415209499, 42.24714684012094]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 252,
+      "town": "Ashland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.46865305958505, 42.25725632784207]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Montgomery"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.82032955598162, 42.20905371043105]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 35,
+      "town": "Adams"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.11873351401712, 42.62685104469356]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 62,
+      "town": "Barre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.10612652001677, 42.42009817235644]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 7,
+      "town": "Petersham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.22107162756704, 42.45968701017902]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Royalston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.18608376138927, 42.680901776761246]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 54,
+      "town": "Rutland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.9672621245702, 42.38481589153454]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 27,
+      "town": "Stow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.51147915271096, 42.42983040524631]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "New Braintree"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.1279472617758, 42.31930328960044]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 43,
+      "town": "Orange"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.29307557278376, 42.60656396439614]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 56,
+      "town": "Blackstone"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.53125134957573, 42.03991693904921]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 49,
+      "town": "Douglas"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.75149400511033, 42.05239784666283]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 98,
+      "town": "Grafton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.68375816834784, 42.20853904716585]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 172,
+      "town": "Middleton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.01644366449902, 42.60432121559106]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 226,
+      "town": "Northborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.6462132601921, 42.32314385494658]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 483,
+      "town": "Agawam"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.65255166897364, 42.065729002046204]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Wales"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.23328434892099, 42.06230000013673]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 98,
+      "town": "Lynnfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.03815852944254, 42.53563488445788]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 8,
+      "town": "Holland"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.16594167382212, 42.06016867450607]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 21,
+      "town": "Dover"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.28420299906841, 42.236611773967574]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 297,
+      "town": "Canton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.12641392296635, 42.17510061543572]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 585,
+      "town": "Norwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.19482894998902, 42.186043150189214]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 137,
+      "town": "Westwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.21062588226418, 42.220253708729395]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 161,
+      "town": "Sharon"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.18301812078916, 42.10854881997746]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 241,
+      "town": "Walpole"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.25546203324458, 42.146440085893204]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 4,
+      "town": "Pelham"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.41641020175885, 42.380806730129635]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 580,
+      "town": "Billerica"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.2672680844682, 42.55867437105659]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 5,
+      "town": "Egremont"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.43938374674828, 42.17025645065926]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "covidCases22July2020": 22,
+      "town": "Boylston"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.72123136465542, 42.356329602654284]
+    }
+  }
+]

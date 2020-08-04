@@ -1,0 +1,36 @@
+const CITY_BOUNDARIES = {
+  id: 'city-boundaries',
+  type: 'fill',
+  source: 'city-boundaries',
+  layout: {},
+  paint: {
+    'fill-color': [
+      'interpolate',
+      ['linear'],
+      ['get', 'medianHouseholdIncome2011-2015'],
+      0,
+      '#f7fcfd',
+      45000,
+      '#e5f5f9',
+      60000,
+      '#ccece6',
+      75000,
+      '#99d8c9',
+      90000,
+      '#66c2a4',
+      105000,
+      '#41ae76',
+      120000,
+      '#238b45',
+      135000,
+      '#006d2c',
+      150000,
+      '#00441b',
+      165000,
+      '#002809',
+    ],
+    'fill-outline-color': 'black',
+  },
+};
+
+export default CITY_BOUNDARIES;

@@ -1,0 +1,13 @@
+.app-content-selection-button {
+  background-color: #202128;
+  font-family: arial;
+  font-size: 1.5rem;
+  color: white;
+  border: none;
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+  outline: none;
+  &.selected {
+    box-shadow: 0 0 6px 2px white;
+  }
+}
