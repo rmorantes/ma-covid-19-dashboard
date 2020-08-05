@@ -20,6 +20,9 @@ import {
       <span>
         {{ population }}
       </span>
+      <span>
+        {{ householdIncome }}
+      </span>
       <!-- Boston 73,234 $45,239 -->
     </div>
   `,
@@ -28,9 +31,10 @@ import {
       .app-city-tile {
         width: 100%;
         height: 4rem;
-        background: grey;
         display: flex;
         justify-content: space-between;
+        border-bottom: solid grey 1px;
+        margin-top: 1rem;
       }
     `,
   ],
@@ -39,6 +43,7 @@ class CityTileComponent {
   @Input() cases;
   @Input() name;
   @Input() population;
+  @Input() householdIncome;
   // @Output() mouseenterr = new EventEmitter();
   // @Output() mouseout = new EventEmitter();
 

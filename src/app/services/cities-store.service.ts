@@ -11,10 +11,74 @@ import DATA from './DATA.json';
 class CitiesStoreService {
   private readonly _cities = new BehaviorSubject(DATA.towns);
 
-  readonly todos$ = this._cities.asObservable();
+  // tableObs = new BehaviorSubject<Table>(null);
+  // this.tableService.tableObs.subscribe(reponse => {
+  //   this.table = reponse;
+  // });
+
+  readonly cities$ = this._cities.asObservable();
 
   get cities() {
     return this._cities.getValue();
+  }
+
+  // assigning a value to this.todos will push it onto the observable
+  // and down to all of its subsribers (ex: this.todos = [])
+  set cities(val) {
+    this._cities.next(val);
+  }
+
+  filterByRegion() {
+    // we assaign a new copy of todos by adding a new todo to it
+    // with automatically assigned ID ( don't do this at home, use uuid() )
+    this.cities = [...this.cities.slice(0, 10)];
+    // this.cities = [];
+  }
+
+  filter({
+    householdIncomeMin,
+    householdIncomeMax,
+    populationMin,
+    populationMax,
+    casesMin,
+    casesMax,
+  }) {
+    const copy = JSON.parse(JSON.stringify(DATA.towns));
+
+    const filteredCities = copy.filter((city) => {
+      // TODO: Refactor.
+      if (householdIncomeMin && city[3] < householdIncomeMin) {
+        return false;
+      }
+
+      if (householdIncomeMax && city[3] > householdIncomeMax) {
+        return false;
+      }
+
+      if (populationMin && city[2] < populationMin) {
+        return false;
+      }
+
+      if (populationMax && city[2] > populationMax) {
+        return false;
+      }
+
+      if (casesMin && city[1] < casesMin) {
+        return false;
+      }
+
+      if (casesMax && city[1] > casesMax) {
+        return false;
+      }
+
+      return true;
+    });
+    console.log('filteredCities.length = ', filteredCities.length);
+    this.cities = filteredCities;
+  }
+
+  reset() {
+    this.cities = DATA.towns;
   }
 }
 

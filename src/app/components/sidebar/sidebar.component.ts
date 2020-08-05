@@ -10,12 +10,26 @@ import CitiesStoreService from 'src/app/services/cities-store.service';
     <div class="app-sidebar">
       <div class="scroll-container">
         <app-selection-form></app-selection-form>
-        <input type="text" />
+        <div class="table-header">
+          <span>
+            City
+          </span>
+          <span>
+            Cases
+          </span>
+          <span>
+            Population
+          </span>
+          <span>
+            Household Income
+          </span>
+        </div>
         <app-city-tile
           *ngFor="let city of citiesStore.cities"
           [name]="city[0]"
           [cases]="city[1]"
           [population]="city[2]"
+          [householdIncome]="city[3]"
           (mouseenter)="onMouseenter(city[0])"
           (mouseout)="onMouseout(city[0])"
         ></app-city-tile>
@@ -93,6 +107,14 @@ import CitiesStoreService from 'src/app/services/cities-store.service';
       .scroll-container::-webkit-scrollbar-track {
         background: #24262e;
         border-radius: 99px;
+      }
+      .table-header {
+        display: flex;
+        justify-content: space-evenly;
+        background: #4c4c4c;
+        margin-top: 4rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
       }
     `,
   ],
