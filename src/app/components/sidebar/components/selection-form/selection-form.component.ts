@@ -1,12 +1,9 @@
+import { Component } from '@angular/core';
+
 import CitiesStoreService from 'src/app/services/cities-store.service';
 
-import {
-  Component,
-  Input,
-  EventEmitter,
-  Output,
-} from '@angular/core';
-
+// TODO: Implement sliders or such for ease of use.
+// TODO: Reset button resets DOM input values.
 @Component({
   selector: 'app-selection-form',
   template: `
@@ -70,16 +67,13 @@ import {
       />
     </label>
     <div class="form-buttons">
-      <button class="form-button" (click)="onClickReset()">
-        Reset
-      </button>
       <button class="form-button" (click)="onClickSubmit()">
         Submit
       </button>
+      <button class="form-button" (click)="onClickReset()">
+        Reset
+      </button>
     </div>
-
-    <!-- <div class="selection-form" (click)="onClick()">Test</div>
-    <button (click)="onClick2()">Add</button> -->
   `,
   styles: [
     `
@@ -106,6 +100,8 @@ import {
     `,
   ],
 })
+
+// TODO: General refactoring.
 class SelectionFormComponent {
   // TODO: Prob better way to do this.
   householdIncomeMin = null;
@@ -115,18 +111,8 @@ class SelectionFormComponent {
   casesMin = null;
   casesMax = null;
 
-  // TODO: Angular form
-
+  // TODO: Angular form.
   constructor(public citiesStore: CitiesStoreService) {}
-  // onClick() {
-  //   console.log('clicked');
-
-  //   this.citiesStore.filterByRegion();
-  // }
-
-  // onClick2() {
-  //   this.citiesStore.resetDefaults();
-  // }
 
   onClickSubmit() {
     this.citiesStore.filter({

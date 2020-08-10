@@ -1,28 +1,28 @@
 import { Component } from '@angular/core';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
-// import FEATURES from './services/FEATURES.json';
 import * as turf from '@turf/turf';
+
 import CITY_BOUNDARIES_FILL from './services/layers/CITY_BOUNDARIES';
 import CITY_BOUNDARIES_FILL_SELECTED from './services/layers/CITY_BOUNDARIES_SELECTED';
 import CITY_BOUNDARIES_SOURCE from './services/sources/CITY_BOUNDARIES';
 import CITY_BOUNDARIES_SELECTED_SOURCE from './services/sources/CITY_BOUNDARIES_SELECTED';
 import CITY_CENTERS_SOURCE from './services/sources/CITY_CENTERS';
 import CITY_CIRCLES_COUNT_LAYER from './services/layers/CITY_CIRCLES_COUNT';
-
 import CITY_CIRCLES from './services/layers/CITY_CIRCLES';
-// https://github.com/d3/d3/wiki#supported-environments
-import * as d3 from 'd3';
 
+// TODO: Tooltips.
+// TODO: Unclustered points highlight their respective city polygons.
+// BUG: Coastal areas do not highlight.
 @Component({ selector: 'app-map', template, styles })
 export class MapComponent {
   ngAfterViewInit() {
+    // NOTE: Ideally the token isn't exposed like this.
     mapboxgl.accessToken =
       'pk.eyJ1Ijoicm1vcmFudGVzIiwiYSI6ImNqYTRtaWp5MzRjcXEzMXBveWViOGNjYm0ifQ.lt1qdGpfbbrT328BOUhIpQ';
 
     const map = new mapboxgl.Map({
       accessToken: mapboxgl.accessToken,
-      // Geographic center of the contiguous United States
       center: [-71.3824, 42.4072],
       container: 'map',
       fadeDuration: 0,
@@ -74,22 +74,17 @@ export class MapComponent {
                   getPolygons(clusterChild),
                 )),
             );
-            console.log('polygons FINAL = ', polygons);
             setIsSelected(polygons, true);
           },
         );
       } else {
-        // handle unclustered point hover
+        // Handle unclustered point hover.
         setIsSelected(feature, isSelected);
       }
     };
 
     const setIsSelected = (features, isSelected) => {
       if (isSelected) {
-        const collection = {
-          features,
-          type: 'FeatureCollection',
-        };
         const boundary = turf.union(...features);
         map.getSource('city-boundaries-selected').setData(boundary);
       }
@@ -108,7 +103,7 @@ export class MapComponent {
           geometry: feature.geometry,
         }),
       );
-      console.log('polygons = ', polygons);
+
       return polygons;
     };
   }

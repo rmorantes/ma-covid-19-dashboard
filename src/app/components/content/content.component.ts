@@ -16,31 +16,21 @@ import { Component } from '@angular/core';
       <app-map [ngClass]="{ isHidden: selected !== 'Map' }"></app-map>
 
       <app-chart
-        [ngClass]="{ isHidden: selected !== 'Chart' }"
+        [ngClass]="{ isHidden: selected !== 'Rate vs Income' }"
       ></app-chart>
+
+      <app-bar-graph
+        [ngClass]="{ isHidden: selected !== 'Cases Comparison' }"
+      ></app-bar-graph>
     </div>
   `,
   styles: [
     `
       :host {
-        /* width: calc(100% - 40rem); */
         width: calc(100% - 36rem - 30px);
       }
       .app-content {
-        /* background-color: #202128;
-        /* height: 100vh; */
-        /* height: calc(100vh - 5rem); */
-        /* width: calc(100% - 40rem); */
-        /* padding: 2rem 2rem; */
-        /* display: inline-block; */
-        /* position: relative; */
-
-        /* Note: Doesn't seem to work, due to auto gen wrap element */
-        /* width: 100%; */
-        /* width: calc(100vw - 40rem); */
-
         background-color: #292b33;
-        /* height: calc(100vh - 5rem); */
         position: relative;
         margin: 20px;
         margin-left: 10px;
@@ -50,18 +40,16 @@ import { Component } from '@angular/core';
       }
       .buttons-container {
         position: absolute;
-        top: 40px;
+        top: 20px;
         left: 80px;
         display: flex;
         z-index: 9;
-        width: 17rem;
+        width: 45rem;
         justify-content: space-between;
       }
-
       .isHidden {
         visibility: hidden;
       }
-
       h3 {
         margin: 0;
         text-align: center;
@@ -70,11 +58,11 @@ import { Component } from '@angular/core';
   ],
 })
 export class ContentComponent {
-  buttonLabels = ['Chart', 'Map'];
-  selected = 'Chart';
+  buttonLabels = ['Rate vs Income', 'Cases Comparison', 'Map'];
+  selected = 'Rate vs Income';
 
+  // TODO: Rename.
   foo(e) {
-    console.log('e = ', e);
     this.selected = e;
   }
 }

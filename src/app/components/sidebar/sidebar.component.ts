@@ -34,50 +34,6 @@ import CitiesStoreService from 'src/app/services/cities-store.service';
           (mouseout)="onMouseout(city[0])"
         ></app-city-tile>
       </div>
-
-      <!-- <div class="app-sidebar-content"> -->
-      <!-- <h3>{{ name }}'s Menu</h3>
-      <p>{{ myBool ? 'isTrue' : 'isFalse' }}</p>
-      <p>My num = {{ getNum() }}</p>
-      <p [innerText]="name + ' Bobandy'"></p>
-      <button (click)="onClick(-1)">-</button>
-      <button (click)="counter = counter + 1">+</button>
-      <button (click)="onClick()">Reset</button>
-      <p>Counter = {{ counter }}</p>
-
-      <input (input)="onUpdate($event)" />
-      <p>Current input = {{ inputValue }}</p>
-      <input [(ngModel)]="inputValue" />
-      <p *ngIf="myBool; else myBoolIsFalse">
-        If myBool is true, this should show
-      </p>
-      <ng-template #myBoolIsFalse>
-        <p>If myBool is false, this should show</p>
-      </ng-template>
-
-      <p
-        [ngStyle]="{ backgroundColor: getColor() }"
-        [ngClass]="{ myBoolIsTrue: myBool, myBoolIsFalse: !myBool }"
-      >
-        Should change from red to green!
-      </p>
-
-      <div *ngFor="let item of items">
-        <p>{{ item }}</p>
-      </div>
-
-      <app-item *ngFor="let item of items"></app-item>
-      <div *ngFor="let item of items; let i = index">
-        <p
-          [ngStyle]="{
-            color: 'white',
-            backgroundColor: i > 1 ? 'red' : 'blue'
-          }"
-        >
-          i = {{ i }}
-        </p>
-      </div> -->
-      <!-- </div> -->
     </div>
   `,
   styles: [
